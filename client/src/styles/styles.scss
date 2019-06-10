@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Alike|Roboto');
+
+                            //----------Enquiry Success Page Style----------//
+.line{
+    border: 2px solid white !important;
+    color: white !important;
+    width: 490px !important;
+    margin: 0;
+}
+.message{
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+}
+.title{
+    text-align: center;
+    color: white;
+    font-family: 'Alike', serif;
+    font-size: 3rem;
+    margin-bottom: 3px;
+}
+.information{
+    text-align: center; 
+    color:white;
+    margin: auto;
+    width: 100%;
+}
+.information-title{
+    text-align: center;
+    margin:auto;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+}
+.information-text{
+    margin:auto;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    text-align: left;
+}
+.information-info{
+    text-align: left;
+    margin:auto;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.3rem;
+}
+.information-contact{
+    margin:auto;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.8rem;
+    text-align: left;
+}
+
+#back{
+    color: white;
+    font-size: 2rem;
+}
+//Contact Success Page Style
+.result{
+    text-align: center;
+}
+body{
+    background-image: url('../../src/assets/prism.png');
+    margin: 0;
+}
+.logo{
+    background-image: url('../../icons/addLogoWhite.svg');
+    background-color: black;
+    height: 60px;
+    background-repeat: no-repeat;
+}
