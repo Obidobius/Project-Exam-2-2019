@@ -1,7 +1,7 @@
 # semester-2019
 ### 
 ```
-f you do not have vue installed globaly on your computer you need to do so.
+If you do not have vue installed globaly on your computer you need to do so.
 ```
 ## NOTE
 ```
@@ -40,8 +40,8 @@ npm run serve
 ### Compiles and minifies for production
 ```
 Navigate to App running at:
-  - Local:   http://localhost:8083/
-  - Network: http://172.27.100.165:8083/
+  - Local:   http://localhost:8080/
+  - Network: http://172.27.100.165:8080/
 ```
 
 ### Compiles and minifies for production
