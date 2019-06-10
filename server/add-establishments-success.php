@@ -8,7 +8,7 @@
                 <h1 style="margin:auto">Hotel successfully added!</h1>
                 <hr>
                 <div>
-                    <a href="http://localhost:8083/#/Create">Back</a>
+                    <a href="http://localhost:8080/#/Create">Back</a>
                 </div>
            </div>
        </div>
