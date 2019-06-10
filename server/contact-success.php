@@ -22,7 +22,7 @@
                 We will contact you as soon as we review your message.
                 </p>    
                 <br>
-                <a id="back" href="http://localhost:8083/#/Hotels">Back to hotels...</a>
+                <a id="back" href="http://localhost:8080/#/Hotels">Back to hotels...</a>
             </div>
         </div>
 <?php
