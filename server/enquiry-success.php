@@ -17,7 +17,7 @@
                 <p class="information-contact"> Tlf: 12345678</p>
                 <p class="information-contact"> Email: holidaze@mail.com</p>
                 <br>
-                <a id="back" href="http://localhost:8083/#/Hotels">Back to hotels...</a>
+                <a id="back" href="http://localhost:8080/#/Hotels">Back to hotels...</a>
             </div>
         </div>
     </div>
