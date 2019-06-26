@@ -6,6 +6,17 @@ If you do not have vue installed globaly on your computer you need to do so.
 ## NOTE
 ```
 This vue required you to run a localhost on your desktop/laptop! Use programs like XAMPP to make the PHP files to work.
+Make sure the client and server folders are in the hotel-booking as the different forms are connected to the address http://192.168.64.2/hotel-booking/
+You can also change this to your liking.
+If so you need to change the addresses in three files:
+
+In client/src/components:
+AddEstablishment.vue on line 10
+ContactForm.vue on line 9
+
+In client/src/containers/pages:
+HotelSpecificPage.vue on line 73
+
 ```
 ## Project setup
 ```
