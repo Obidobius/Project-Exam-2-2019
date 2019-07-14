@@ -1,4 +1,4 @@
-# semester-2019
+# Project Holidaze-2019
 ### 
 ```
 If you do not have vue installed globaly on your computer you need to do so.
